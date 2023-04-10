@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" and "ascii"?>
+<server_data>
+	<admins>
+		<id value="76561199089316322"/>
+		<blacklist>
+			<id value="747661199736406343"/>
+		</blacklist>
+
+		<MaxPlayers>
+			<MaxPlayers value="102"/>
+		</MaxPlayers> 
+	</admins>
+</server_data>
